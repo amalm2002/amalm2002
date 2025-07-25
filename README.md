@@ -31,7 +31,7 @@
 
 ### 📫 Contact
 - **Email:** amalm2495@gmail.com
-- **Location:** Kerala, India
+- **Location:** Calicut, Kerala, India
 
 </td>
 <td width="55%" valign="top">
