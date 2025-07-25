@@ -68,15 +68,6 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
-<!-- GitHub Actions must generate this file first -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amalm2002/amalm2002/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
----
-
 ## 🎯 Fun Dev GIF
 
 <p align="center">
