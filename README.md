@@ -18,16 +18,7 @@
 
 ## 🚀 About Me
 
-```typescript
-const amal = {
-    name: "Amal M",
-    role: "Full Stack Developer",
-    location: "India 🇮🇳",
-    stack: ["MERN", "TypeScript", "Microservices"],
-    currentFocus: "System Design & Architecture",
-    lifePhilosophy: "Code with passion, learn continuously"
-};
-```
+
 
 ### 🌱 Currently Learning
 - **Advanced System Design**
