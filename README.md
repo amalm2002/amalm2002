@@ -14,15 +14,15 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="45%" valign="top">
 
 ## 🚀 About Me
 
-
+**Full Stack Developer** passionate about building scalable web applications using the **MERN Stack**. Currently focused on **System Design & Microservices Architecture** to create robust, high-performance solutions.
 
 ### 🌱 Currently Learning
 - **Advanced System Design**
-- **Microservices Architecture**
+- **Microservices Architecture** 
 - **DevOps & Cloud Technologies**
 - **Data Structures & Algorithms**
 
@@ -32,8 +32,13 @@
 - **Database:** MongoDB, PostgreSQL
 - **Tools:** Docker, Kubernetes, AWS
 
+### 📫 Contact Info
+- **Email:** amalm2495@gmail.com
+- **Location:** Kerala, India
+- **Available for:** Freelance & Full-time
+
 </td>
-<td width="50%">
+<td width="55%" valign="top">
 
 ## 📊 GitHub Analytics
 
@@ -95,16 +100,6 @@
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=amalm2002&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" width="100%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=amalm2002&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
 
 </div>
 
