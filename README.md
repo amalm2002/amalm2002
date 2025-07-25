@@ -14,7 +14,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
 ## 🚀 About Me
 
@@ -34,7 +34,7 @@
 - **Location:** Kerala, India
 
 </td>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
 ## 📊 GitHub Stats
 
@@ -75,6 +75,9 @@
 <a href="mailto:amalm2495@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
+<a href="https://www.instagram.com/am_amal___/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 <a href="https://leetcode.com/u/amal2002/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
@@ -85,7 +88,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
 
 ### 🎯 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
