@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 # Hi 👋, I'm Amal M
 ### A passionate MERN-Stack Developer from India 🇮🇳
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+Stack;Microservices+%26+System+Design;Open+Source+Contributor;Building+Scalable+Applications" alt="Typing Animation" />
@@ -10,17 +10,17 @@
 <tr>
 <td width="45%" valign="top">
 ## 🚀 About Me
-Full Stack Developer passionate about building scalable web applications using the MERN Stack. Currently focused on System Design & Microservices Architecture.
+**Full Stack Developer** passionate about building scalable web applications using the **MERN Stack**. Currently focused on **System Design & Microservices Architecture**.
 ### 🌱 Currently Learning
-- Advanced System Design & Microservices 
-- DevOps & Cloud Technologies
+- **Advanced System Design & Microservices** 
+- **DevOps & Cloud Technologies**
 ### 💡 Tech Stack
-- Frontend: React.js, TypeScript, Tailwind CSS
-- Backend: Node.js, Express.js, MongoDB
-- Tools: Docker, AWS, Git
+- **Frontend:** React.js, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Express.js, MongoDB
+- **Tools:** Docker, AWS, Git
 ### 📫 Contact
-- Email: amalm2495@gmail.com
-- Location: Calicut, Kerala, India
+- **Email:** amalm2495@gmail.com
+- **Location:** Calicut, Kerala, India
 </td>
 <td width="55%" valign="top">
 ## 📊 GitHub Stats
@@ -59,6 +59,6 @@ Full Stack Developer passionate about building scalable web applications using t
 <div align="center">
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
 ### 🎯 "Code is like humor. When you have to explain it, it's bad." - Cory House
-Thank you for visiting! Let's connect and build amazing things together! 🚀
+**Thank you for visiting! Let's connect and build amazing things together! 🚀**
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
 </div>
